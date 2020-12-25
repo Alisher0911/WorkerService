@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService1", "WorkerService1\WorkerService1.csproj", "{16749E71-9D9D-4005-8217-823FC5667186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailService", "EmailService\EmailService.csproj", "{BCE872E5-6C32-4430-B992-DE4BC71D1997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingService", "LoggingService\LoggingService.csproj", "{E1D81E58-3144-4F15-977B-C4626E9F34C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16749E71-9D9D-4005-8217-823FC5667186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16749E71-9D9D-4005-8217-823FC5667186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16749E71-9D9D-4005-8217-823FC5667186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16749E71-9D9D-4005-8217-823FC5667186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE872E5-6C32-4430-B992-DE4BC71D1997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE872E5-6C32-4430-B992-DE4BC71D1997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE872E5-6C32-4430-B992-DE4BC71D1997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE872E5-6C32-4430-B992-DE4BC71D1997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D81E58-3144-4F15-977B-C4626E9F34C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D81E58-3144-4F15-977B-C4626E9F34C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D81E58-3144-4F15-977B-C4626E9F34C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D81E58-3144-4F15-977B-C4626E9F34C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/alisher/Projects/WorkerService1/LoggingService/bin/Debug/netstandard2.1/LoggingService.deps.json
+/Users/alisher/Projects/WorkerService1/LoggingService/bin/Debug/netstandard2.1/LoggingService.dll
+/Users/alisher/Projects/WorkerService1/LoggingService/bin/Debug/netstandard2.1/LoggingService.pdb
+/Users/alisher/Projects/WorkerService1/LoggingService/bin/Debug/netstandard2.1/EmailService.dll
+/Users/alisher/Projects/WorkerService1/LoggingService/bin/Debug/netstandard2.1/EmailService.pdb
+/Users/alisher/Projects/WorkerService1/LoggingService/obj/Debug/netstandard2.1/LoggingService.csprojAssemblyReference.cache
+/Users/alisher/Projects/WorkerService1/LoggingService/obj/Debug/netstandard2.1/LoggingService.AssemblyInfoInputs.cache
+/Users/alisher/Projects/WorkerService1/LoggingService/obj/Debug/netstandard2.1/LoggingService.AssemblyInfo.cs
+/Users/alisher/Projects/WorkerService1/LoggingService/obj/Debug/netstandard2.1/LoggingService.csproj.CoreCompileInputs.cache
+/Users/alisher/Projects/WorkerService1/LoggingService/obj/Debug/netstandard2.1/LoggingService.csproj.CopyComplete
+/Users/alisher/Projects/WorkerService1/LoggingService/obj/Debug/netstandard2.1/LoggingService.dll
+/Users/alisher/Projects/WorkerService1/LoggingService/obj/Debug/netstandard2.1/LoggingService.pdb

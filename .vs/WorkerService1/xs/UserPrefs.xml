@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{16749E71-9D9D-4005-8217-823FC5667186}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoggingService/EmailLogger.cs">
+    <Files>
+      <File FileName="WorkerService1/appsettings.json" Line="13" Column="28" />
+      <File FileName="EmailService/EmailConfiguration.cs" />
+      <File FileName="EmailService/IEmailSender.cs" Line="6" Column="14" />
+      <File FileName="EmailService/Message.cs" Line="18" Column="60" />
+      <File FileName="EmailService/EmailSender.cs" Line="11" Column="25" />
+      <File FileName="WorkerService1/Program.cs" Line="28" Column="72" />
+      <File FileName="LoggingService/ILogger.cs" Line="10" Column="44" />
+      <File FileName="WorkerService1/Worker.cs" Line="24" Column="40" />
+      <File FileName="LoggingService/Logger.cs" Line="37" Column="107" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkerService1" expanded="True">
+            <Node name="EmailService" expanded="True" />
+            <Node name="LoggingService" expanded="True">
+              <Node name="EmailLogger.cs" selected="True" />
+            </Node>
+            <Node name="WorkerService1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WorkerService1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

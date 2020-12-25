@@ -1,0 +1,9 @@
+/Users/alisher/Projects/WorkerService1/EmailService/bin/Release/netstandard2.1/EmailService.deps.json
+/Users/alisher/Projects/WorkerService1/EmailService/bin/Release/netstandard2.1/EmailService.dll
+/Users/alisher/Projects/WorkerService1/EmailService/bin/Release/netstandard2.1/EmailService.pdb
+/Users/alisher/Projects/WorkerService1/EmailService/obj/Release/netstandard2.1/EmailService.csprojAssemblyReference.cache
+/Users/alisher/Projects/WorkerService1/EmailService/obj/Release/netstandard2.1/EmailService.AssemblyInfoInputs.cache
+/Users/alisher/Projects/WorkerService1/EmailService/obj/Release/netstandard2.1/EmailService.AssemblyInfo.cs
+/Users/alisher/Projects/WorkerService1/EmailService/obj/Release/netstandard2.1/EmailService.csproj.CoreCompileInputs.cache
+/Users/alisher/Projects/WorkerService1/EmailService/obj/Release/netstandard2.1/EmailService.dll
+/Users/alisher/Projects/WorkerService1/EmailService/obj/Release/netstandard2.1/EmailService.pdb
